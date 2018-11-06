@@ -10,20 +10,20 @@
 
 ## 趣味/特技
 
-## 言語
+## Programming language
 
 | 言語 | 経験 |
 ----|---- 
 | C言語  | 2年 |
 | Python | 2年 |
-| Shell Script | 2年
-| Java   | 0.5年|
+| Shell Script | 2年|
+| Java   | 1年|
 | PHP    | 0.5年|
 | HTML/CSS | 0.5年|
 
-## フレームワーク
+## Framework
 
-## ミドルウェア
+## Middleware
 
 ## 自宅環境
 【クライアント】
