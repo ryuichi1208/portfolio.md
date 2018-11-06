@@ -18,10 +18,10 @@
 
 ## 自宅環境
 * 開発機
-** iMac (Retina 4K, 21.5-inch, Late 2015)
-** 
+iMac (Retina 4K, 21.5-inch, Late 2015)
+ 
 
 * サーバ機
-** aaa
+
 
 ## 資格
