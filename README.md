@@ -10,7 +10,9 @@
 
 ## 趣味/特技
 
-## Programming language
+## Skill
+
+#### Programming language
 
 | type | experience |
 ----|---- 
@@ -21,14 +23,14 @@
 | PHP    | 0.5年|
 | HTML/CSS | 0.5年|
 
-## Framework
+#### Framework
 
 | type | experience |
 ----|---- 
 | Django  | 0.5年 |
 | Laravel | 0.5年 |
 
-## Middleware
+#### Middleware
 
 ## 自宅環境
 【クライアント】
