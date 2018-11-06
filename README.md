@@ -30,8 +30,6 @@
 | Django  | 0.5年 |
 | Laravel | 0.5年 |
 
-#### Middleware
-
 ## 自宅環境
 【クライアント】
 * iMac (Retina 4K, 21.5-inch, Late 2015)
