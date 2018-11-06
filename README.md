@@ -1,4 +1,4 @@
-# ポートフォリオ
+# Portfolio
 
 ## 自己紹介
 
@@ -33,9 +33,10 @@
 ## 自宅環境
 【クライアント】
 * iMac (Retina 4K, 21.5-inch, Late 2015)
- 
+* Dell Inspiron 14 7000
+
 【サーバ】
 * Raspberry Pi * 3
-
+* FUJITSU PRIMERGY TX1310 M1
 
 ## 資格
