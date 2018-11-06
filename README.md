@@ -17,11 +17,11 @@
 ## ミドルウェア
 
 ## 自宅環境
-* 開発機
-iMac (Retina 4K, 21.5-inch, Late 2015)
+【クライアント】
+* iMac (Retina 4K, 21.5-inch, Late 2015)
  
-
-* サーバ機
+【サーバ】
+* Raspberry Pi * 3
 
 
 ## 資格
