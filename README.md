@@ -12,7 +12,7 @@
 
 ## Programming language
 
-| 言語 | 経験 |
+| type | experience |
 ----|---- 
 | C言語  | 2年 |
 | Python | 2年 |
@@ -22,6 +22,11 @@
 | HTML/CSS | 0.5年|
 
 ## Framework
+
+| type | experience |
+----|---- 
+| Django  | 0.5年 |
+| Laravel | 0.5年 |
 
 ## Middleware
 
