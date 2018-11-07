@@ -6,13 +6,19 @@
 
 ## 職歴
 
-## ソーシャルアカウント
+## Social account
+
+|SNS|URL|
+----|---- 
+|twitter|https://twitter.com/ryuichi_1208|
+|Qiita|https://qiita.com/ryuichi1208|
+|GitHub|https://github.com/ryuichi1208|
 
 ## 趣味/特技
 
 ## Skill
 
-#### Programming language
+### Programming language
 
 | type | experience |
 ----|---- 
@@ -21,14 +27,22 @@
 | Shell Script | 2年|
 | Java   | 1年|
 | PHP    | 0.5年|
-| HTML/CSS | 0.5年|
+| HTML/CSS | 0.5年(独学)|
 
-#### Framework
+### Framework
 
 | type | experience |
 ----|---- 
-| Django  | 0.5年 |
 | Laravel | 0.5年 |
+| Django  | 0.5年(独学) |
+
+### CI/CD
+
+| type | experience |
+----|---- 
+| Jenkins   | 0.5年       |
+| CircleCI  | 0.5年(独学) |
+
 
 ## 自宅環境
 【クライアント】
