@@ -42,6 +42,7 @@
 | type | experience |
 ----|---- 
 | MySQL | 0.5年 |
+| MongoDB | 0.5年|
 
 ### CI/CD
 
