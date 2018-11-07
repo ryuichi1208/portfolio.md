@@ -69,3 +69,14 @@
 * FUJITSU PRIMERGY TX1310 M1
 
 ## 資格
+
+| Date    | License        |
+----|---- 
+|2017/06  | OCJP-Bronze    |
+|2017/10  | LPIC-1         |
+|2017/12  | OCJP-Silver    |
+|2018/02  | LPIC-2         |
+|2018/04  | 基本情報技術者 |
+|2018/05  | LPIC-3 300     |
+|2018/07  | Python認定 基礎|
+|2018/10  | LPIC-3 304     |
