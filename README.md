@@ -36,6 +36,12 @@
 | Laravel | 0.5年 |
 | Django  | 0.5年(独学) |
 
+### Database
+
+| type | experience |
+----|---- 
+| MySQL | 0.5年 |
+
 ### CI/CD
 
 | type | experience |
@@ -43,6 +49,13 @@
 | Jenkins   | 0.5年       |
 | CircleCI  | 0.5年(独学) |
 
+### 仮想化
+
+| type | experience |
+----|---- 
+| Docker     | 1年       |
+| Kubernetes | 1年       |
+| Vagrant    | 0.5年(独学)|
 
 ## 自宅環境
 【クライアント】
