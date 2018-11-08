@@ -2,14 +2,20 @@
 
 ## 自己紹介
 
-## 経歴
+某理系大学卒の2年目エンジニアです。
+趣味はパソコンと読書と他色々。
 
-## 職歴
+## 経歴/職歴
 
-## Social account
+2017年04月 ~ インフラ系エンジニア
+
+## 作品
+
+## SNS
 
 |SNS|URL|
 ----|---- 
+|Mail   |ryucrosskey@gmail.com|
 |twitter|https://twitter.com/ryuichi_1208|
 |Qiita|https://qiita.com/ryuichi1208|
 |GitHub|https://github.com/ryuichi1208|
