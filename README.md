@@ -17,7 +17,7 @@
 |SNS|URL|
 ----|---- 
 |Mail   |ryucrosskey@gmail.com|
-|twitter|https://twitter.com/ryuichi_1208|
+|Twitter|https://twitter.com/ryuichi_1208|
 
 ## SNS
 
