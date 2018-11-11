@@ -31,7 +31,7 @@
 
 ### Programming language
 
-| type | experience |
+| type | 経験 |
 ----|---- 
 | C言語  | 2年 |
 | Python | 2年 |
@@ -40,34 +40,40 @@
 | PHP    | 0.5年|
 | HTML/CSS | 0.5年(独学)|
 
-### Framework
+### フレームワーク
 
-| type | experience |
+| type | 経験 |
 ----|---- 
 | Laravel | 0.5年 |
 | Django  | 0.5年(独学) |
 
-### Database
+### データベース
 
-| type | experience |
+| type | 経験 |
 ----|---- 
 | MySQL | 0.5年 |
 | MongoDB | 0.5年|
 
 ### CI/CD
 
-| type | experience |
+| type | 経験 |
 ----|---- 
 | Jenkins   | 0.5年       |
 | CircleCI  | 0.5年(独学) |
 
 ### 仮想化
 
-| type | experience |
-----|---- 
+| type | 経験 |
+-------|------- 
 | Docker     | 1年       |
 | Kubernetes | 1年       |
 | Vagrant    | 0.5年(独学)|
+
+#### 構成管理ツール
+
+| type | 経験 |
+-------|------- 
+| Ansible | 0.5年(独学) |
 
 ## 自宅環境
 【クライアント】
