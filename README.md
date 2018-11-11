@@ -12,14 +12,19 @@
 
 準備中
 
-## SNS
+## Contact
 
 |SNS|URL|
 ----|---- 
 |Mail   |ryucrosskey@gmail.com|
 |twitter|https://twitter.com/ryuichi_1208|
+
+## SNS
+
+|SNS|URL|
+----|---- 
 |Qiita|https://qiita.com/ryuichi1208|
-|teratail|https://teratail.com/users/ryuichi1208#reply|
+|teratail|https://teratail.com/users/ryuichi_1208#reply|
 |GitHub|https://github.com/ryuichi1208|
 |DockerHub|https://hub.docker.com/r/ryuichi1208|
 
