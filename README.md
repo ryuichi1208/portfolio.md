@@ -19,6 +19,7 @@
 |Mail   |ryucrosskey@gmail.com|
 |twitter|https://twitter.com/ryuichi_1208|
 |Qiita|https://qiita.com/ryuichi1208|
+|teratail|https://teratail.com/users/ryuichi1208#reply|
 |GitHub|https://github.com/ryuichi1208|
 |DockerHub|https://hub.docker.com/r/ryuichi1208|
 
