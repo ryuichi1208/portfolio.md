@@ -82,13 +82,15 @@
 | Ansible | 0.5年(独学) |
 
 ## 自宅環境
-【クライアント】
+【クライアント用】
 * iMac (Retina 4K, 21.5-inch, Late 2015)
 * Dell Inspiron 14 7000
 
-【サーバ】
-* Raspberry Pi * 3
+【サーバ用】
 * FUJITSU PRIMERGY TX1310 M1
+* Raspberry Pi 2
+* Raspberry Pi 3 Model B
+* Raspberry Pi 3 Model B+
 
 ## 資格
 
